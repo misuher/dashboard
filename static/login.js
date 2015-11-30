@@ -1,5 +1,5 @@
 var app = angular.module('LoginApp', ['ngMaterial']);
 
-app.controller('LoginController', function() {
+app.controller('LoginController', function(){
 
-});
+    });
